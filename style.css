@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(175, 220, 231);
+}
+
+.heading{
+    width: 100%;
+    font-size: 23px;
+}
+
+canvas{
+    border:3px solid black;
+}
